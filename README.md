@@ -1,0 +1,2 @@
+# JDBC-Workshop1.1
+JDBC CRUD + JAVA MAIL API 
